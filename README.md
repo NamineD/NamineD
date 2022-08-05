@@ -29,5 +29,5 @@ Mi nombre es Daiana, soy Front-end developer de **Argentina** <img src="https://
 
 <h2 align="left">:heart: Conectémonos:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daiana-Elizabeth-Gimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/imsivram1999/](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/))](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/imsivram1999/](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/))](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/)
 [![Instagram Badge](https://img.shields.io/badge/-noctis_09-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=[https://www.instagram.com/itz.me____p.r.i.n.c.e_____/](https://www.instagram.com/))](https://www.instagram.com/noctis_09/)
