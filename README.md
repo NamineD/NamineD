@@ -29,4 +29,4 @@ Mi nombre es Daiana, soy Front-end developer de **Argentina** <img src="https://
 <h2 align="left">:heart: Conectémonos:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/imsivram1999/](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/))](https://www.linkedin.com/in/daiana-elizabeth-gimenez-3bba02213/)
-[![Twitter Badge](https://img.shields.io/badge/-noctis_09-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=[https://www.twitter.com/itz.me____p.r.i.n.c.e_____/](https://www.twitter.com/))](https://twitter.com/Nami_Ne09)
+[![Twitter Badge](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://www.twitter.com/))](https://twitter.com/Nami_Ne09)
